@@ -1,0 +1,492 @@
+[
+  {
+    "date": "2023-02-06",
+    "title": "Kahramanmaraş Büyük Depremi",
+    "description": "7.8 ve 7.5 büyüklüğünde iki deprem 53.537 kişinin ölümüne yol açtı. Modern Türkiye'nin en büyük doğal afeti.",
+    "url": "https://tr.wikipedia.org/wiki/2023_Kahramanmaraş_depremleri",
+    "tags": ["deprem", "doğal afet", "katliam", "ihmal"]
+  },
+  {
+    "date": "2025-03-19",
+    "title": "Ekrem İmamoğlu Tutuklanması ve Protesto Dalgası",
+    "description": "İstanbul Büyükşehir Belediye Başkanı tutuklandı. On yılların en büyük hükûmet karşıtı protestoları başladı.",
+    "url": "https://tr.wikipedia.org/wiki/Ekrem_İmamoğlu'nun_tutuklanması",
+    "tags": ["tutuklama", "protesto", "demokrasi", "darbe girişimi"]
+  },
+  {
+    "date": "2025-03-20",
+    "title": "Saraçhane Protestoları",
+    "description": "İmamoğlu'nun tutuklanmasını protesto eden 2.2 milyon kişi sokaklara çıktı. 1.418 kişi gözaltına alındı.",
+    "url": "https://tr.wikipedia.org/wiki/2025_Türkiye_protestoları",
+    "tags": ["protesto", "demokrasi", "gözaltı", "öğrenci"]
+  },
+  {
+    "date": "2020-07-16",
+    "title": "Pınar Gültekin Cinayeti",
+    "description": "27 yaşındaki üniversite öğrencisi eski sevgilisi tarafından öldürüldü ve canlı canlı yakıldı. Ülke genelinde femisid protestoları.",
+    "url": "https://tr.wikipedia.org/wiki/Pınar_Gültekin_cinayeti",
+    "tags": ["femisid", "cinayet", "kadın hakları", "protesto"]
+  },
+  {
+    "date": "2020-01-24",
+    "title": "Elazığ Depremi",
+    "description": "6.8 büyüklüğündeki deprem 41 kişinin ölümüne yol açtı. 1.607 kişi yaralandı, bin civarında bina hasar gördü.",
+    "url": "https://tr.wikipedia.org/wiki/2020_Elazığ_depremi.",
+    "tags": ["deprem", "doğal afet", "Elazığ"]
+  },
+  {
+    "date": "2020-02-05",
+    "title": "Pegasus Havayolları Uçak Kazası",
+    "description": "İstanbul Sabiha Gökçen Havaalanında Boeing 737 pistten çıktı. 3 kişi öldü 179 kişi yaralandı.",
+    "url": "https://www.bbc.com/turkce/haberler-turkiye-51389039",
+    "tags": ["kaza", "havacılık", "İstanbul"]
+  },
+  {
+    "date": "2020-02-04",
+    "title": "Van Çifte Çığ Felaketi",
+    "description": "Van'ın Bahçesaray ilçesinde iki çığ 42 kişinin ölümüne yol açtı. Kurtarma koordinasyonu sorunları açığa çıktı.",
+    "url": "https://tr.wikipedia.org/wiki/2020_Van_çığ_faciası",
+    "tags": ["çığ", "doğal afet", "kurtarma", "Van"]
+  },
+  {
+    "date": "2020-09-11",
+    "title": "47 Avukat Toplu Tutuklaması",
+    "description": "Ankara'da 47 avukat evlerinde sabah baskınlarında terör suçlamasıyla tutuklandı.",
+    "url": "https://www.bbc.com/turkce/haberler/2011/11/111122_kck_lawyers",
+    "tags": ["tutuklama", "avukat", "terör suçlaması", "hukuk"]
+  },
+  {
+    "date": "2020-10-30",
+    "title": "İzmir Ege Denizi Depremi",
+    "description": "7.0 büyüklüğündeki deprem İzmir'i vurdu. 117 kişi öldü 1000'den fazla kişi yaralandı.",
+    "url": "https://tr.wikipedia.org/wiki/2020_Ege_Denizi_depremi",
+    "tags": ["deprem", "doğal afet", "İzmir"]
+  },
+  {
+    "date": "2021-01-04",
+    "title": "Boğaziçi Üniversitesi Protestoları",
+    "description": "Erdoğan'ın atadığı rektör Melih Bulu'ya karşı öğrenci protestoları başladı. Yüzlerce öğrenci tutuklandı.",
+    "url": "https://www.cumhuriyet.com.tr/haber/bogazici-universitesinde-akpli-melih-buluya-karsi-protesto-kayyim-rektor-istemiyoruz-1803586",
+    "tags": ["protesto", "üniversite", "tutuklama", "akademik özgürlük"]
+  },
+  {
+    "date": "2021-02-13",
+    "title": "Gara Katliamı",
+    "description": "PKK 13 kişiyi (10 güvenlik personeli 3 sivil) öldürdü. TSK'nın kurtarma operasyonu sırasında rehineler katledildi.",
+    "url": "https://tr.wikipedia.org/wiki/Gara_Katliamı",
+    "tags": ["terör", "katliam", "PKK", "şehit"]
+  },
+  {
+    "date": "2021-03-20",
+    "title": "İstanbul Sözleşmesi'nden Çekilme",
+    "description": "Türkiye İstanbul Sözleşmesi'nden çekildi. Kadın hakları savunucuları ülke genelinde protesto yaptı.",
+    "url": "https://www.bbc.com/turkce/haberler-dunya-57670070",
+    "tags": ["kadın hakları", "protesto", "uluslararası anlaşma", "femisid"]
+  },
+  {
+    "date": "2021-07-28",
+    "title": "Akdeniz Orman Yangınları",
+    "description": "Türkiye'nin en büyük orman yangını felaketi. 9 kişi öldü 4000 turist tahliye edildi.",
+    "url": "https://tr.wikipedia.org/wiki/2021_Türkiye_orman_yangınları",
+    "tags": ["orman yangını", "doğal afet", "Akdeniz", "tahliye"]
+  },
+  {
+    "date": "2021-08-11",
+    "title": "Karadeniz Sel Felaketi",
+    "description": "Türkiye'nin en ölümcül sel felaketi. 97 kişi öldü 228 kişi yaralandı.",
+    "url": "https://tr.wikipedia.org/wiki/2021_Bat%C4%B1_Karadeniz_sel_felaketi",
+    "tags": ["sel", "doğal afet", "Karadeniz", "Kastamonu"]
+  },
+  {
+    "date": "2022-04-25",
+    "title": "Osman Kavala Müebbet Hapis",
+    "description": "İnsan hakları savunucusu Osman Kavala 2013 Gezi protestolarından dolayı müebbet hapis cezasına çarptırıldı.",
+    "url": "https://www.bbc.com/turkce/haberler-turkiye-61190354",
+    "tags": ["insan hakları", "tutuklama", "Gezi", "müebbet"]
+  },
+  {
+    "date": "2022-10-14",
+    "title": "Bartın Amasra Maden Faciası",
+    "description": "Bartın'ın Amasra ilçesindeki kömür madeninde grizu patlaması 42 işçinin ölümüne yol açtı. Türkiye'nin son yıllardaki en ölümcül maden kazası.",
+    "url": "https://tr.wikipedia.org/wiki/Amasra_maden_kazası",
+    "tags": ["maden", "işçi ölümleri", "ihmal", "Bartın", "grizu"]
+  },
+  {
+    "date": "2024-02-13",
+    "title": "Erzincan Çöpler Altın Madeni Faciası",
+    "description": "Erzincan'ın İliç ilçesindeki Çöpler Altın Madeni'nde heyelan 9 işçinin ölümüne yol açtı. Son işçinin cesedine 116 gün sonra ulaşıldı.",
+    "url": "https://www.hurriyet.com.tr/haberleri/maden-kazasi",
+    "tags": ["maden", "heyelan", "altın madeni", "Erzincan", "arama kurtarma"]
+  },
+  {
+    "date": "2020-07-03",
+    "title": "Sakarya Havai Fişek Fabrikası Patlaması",
+    "description": "Sakarya'nın Hendek ilçesinde havai fişek fabrikasında patlama 6 işçinin ölümüne 114 işçinin yaralanmasına yol açtı.",
+    "url": "https://tr.wikipedia.org/wiki/2020_Hendek_havai_fişek_fabrikası_patlaması",
+    "tags": ["patlama", "fabrika", "işçi ölümleri", "Sakarya"]
+  },
+  {
+    "date": "2022-11-13",
+    "title": "İstiklal Caddesi Bombalı Saldırı",
+    "description": "Taksim İstiklal Caddesi'nde bombalı saldırı 6 kişinin ölümüne 81 kişinin yaralanmasına yol açtı.",
+    "url": "https://www.hurriyet.com.tr/gundem/son-dakika-taksim-istiklal-caddesinde-bombali-saldiri-6-kisi-hayatini-kaybetti-2si-agir-81-kisi-yaralandi-42170195",
+    "tags": ["terör", "bomba", "İstanbul", "PKK"]
+  },
+  {
+    "date": "2023-10-01",
+    "title": "Ankara İçişleri Bakanlığı Saldırısı",
+    "description": "PKK üyesi 2 terörist İçişleri Bakanlığı'na saldırı düzenledi. 2 polis yaralandı.",
+    "url": "https://www.sozcu.com.tr/2023/gundem/ankarada-patlama-4-7817379/",
+    "tags": ["terör", "PKK", "Ankara", "saldırı"]
+  },
+  {
+    "date": "2023-11-08",
+    "title": "Can Atalay Anayasa Krizi",
+    "description": "Yargıtay Anayasa Mahkemesi'nin milletvekili Can Atalay'ın tahliyesi kararına uymadı. Anayasa krizi yaşandı.",
+    "url": "https://www.bbc.com/turkce/articles/clkwdjxd32eo",
+    "tags": ["anayasa krizi", "yargı", "hukuk devleti", "Can Atalay"]
+  },
+  {
+    "date": "2024-08-21",
+    "title": "Narin Güran Cinayeti",
+    "description": "8 yaşındaki Narin Güran Diyarbakır'da aile üyeleri tarafından öldürüldü. Vaka ulusal obsesyon haline geldi.",
+    "url": "https://tr.wikipedia.org/wiki/Narin_Güran_cinayeti",
+    "tags": ["çocuk cinayeti", "aile içi şiddet", "Diyarbakır", "obsesyon"]
+  },
+  {
+    "date": "2024-10-04",
+    "title": "İkbal Uzuner ve Ayşenur Halil Çifte Cinayeti",
+    "description": "19 yaşındaki iki genç kadın 19 yaşındaki Semih Çelik tarafından öldürüldü. İkbal Uzuner'in başı kesilerek sur duvarından atıldı.",
+    "url": "https://tr.wikipedia.org/wiki/Ayşenur_Halil_ve_İkbal_Uzuner_cinayetleri",
+    "tags": ["femisid", "çifte cinayet", "toplumsal şiddet", "İstanbul"]
+  },
+  {
+    "date": "2024-10-23",
+    "title": "TUSAŞ Terör Saldırısı",
+    "description": "PKK üyesi 2 terörist TUSAŞ tesislerine saldırı düzenledi. 5 kişi şehit oldu 22 kişi yaralandı.",
+    "url": "https://www.hurriyet.com.tr/gundem/live-son-dakika-ankarada-tusasta-patlama-ve-silah-sesleri-42569714",
+    "tags": ["terör", "PKK", "savunma sanayi", "şehit"]
+  },
+  {
+    "date": "2024-10-31",
+    "title": "Esenyurt Belediye Başkanı Tutuklaması",
+    "description": "CHP'li Esenyurt Belediye Başkanı Ahmet Özer PKK bağlantısı suçlamasıyla tutuklandı.",
+    "url": "https://tr.euronews.com/2024/10/30/chpli-esenyurt-belediye-baskani-ozer-pkk-uyesi-olmak-suclamasiyla-tutuklandi",
+    "tags": ["tutuklama", "belediye", "terör suçlaması", "CHP"]
+  },
+  {
+    "date": "2019-08-18",
+    "title": "Emine Bulut Cinayeti",
+    "description": "38 yaşındaki anne kızının gözü önünde eski kocası tarafından öldürüldü. 'Ölmek istemiyorum' sözleri viral oldu.",
+    "url": "https://www.sozcu.com.tr/2019/gundem/eski-esin-kizinin-gozunun-onunde-bicakladigi-kadin-hayatini-kaybetti-2621453/",
+    "tags": ["femisid", "aile içi şiddet", "viral video", "çocuk travması"]
+  },
+  {
+    "date": "2018-05-28",
+    "title": "Şule Çet Cinayeti",
+    "description": "23 yaşındaki moda tasarımı öğrencisi tecavüz edildikten sonra 20. kattan atıldı. Önce intihar denildi sonra cinayet kanıtlandı.",
+    "url": "https://tr.wikipedia.org/wiki/Şule_Çet_cinayeti",
+    "tags": ["femisid", "tecavüz", "adalet", "üniversite"]
+  },
+  {
+    "date": "2015-02-11",
+    "title": "Özgecan Aslan Cinayeti",
+    "description": "20 yaşındaki psikoloji öğrencisi tecavüze direniş gösterirken öldürüldü. Türkiye'de femisid sembolü haline geldi.",
+    "url": "https://tr.wikipedia.org/wiki/Özgecan_Aslan_cinayeti",
+    "tags": ["femisid", "sembol", "kadın hakları", "Özgecan"]
+  },
+  {
+    "date": "2020-03-08",
+    "title": "8 Mart Kadın Hakları Protestoları",
+    "description": "8 Mart Dünya Kadınlar Günü gösterilerinde polis kadın aktivistlere biber gazı sıktı.",
+    "url": "https://www.cumhuriyet.com.tr/haber/8-mart-dunyada-kadin-haklari-protestolari-1725386",
+    "tags": ["kadın hakları", "protesto", "polis şiddeti", "8 Mart"]
+  },
+  {
+    "date": "2020-06-19",
+    "title": "Baro Avukatları Ankara Yürüyüşü",
+    "description": "Baro başkanları yeni baro yasasını protesto için Ankara'ya yürüdü ancak polis tarafından engellendi.",
+    "url": "https://tr.euronews.com/2020/06/22/baro-baskanlar-n-n-yuruyusune-ankara-girisinde-polis-engeli",
+    "tags": ["avukat", "protesto", "baro yasası", "Ankara yürüyüşü"]
+  },
+  {
+    "date": "2020-09-25",
+    "title": "HDP Siyasetçileri Tutuklaması",
+    "description": "17 HDP siyasetçisi 2014 Kobani protestolarıyla ilgili tutuklandı.",
+    "url": "https://www.bbc.com/turkce/articles/cgey1039xj2o",
+    "tags": ["HDP", "tutuklama", "Kobani", "siyasi tutuklama"]
+  },
+  {
+    "date": "2021-03-21",
+    "title": "İstanbul Sözleşmesi Protestoları",
+    "description": "İstanbul Sözleşmesi'nden çekilme kararını protesto eden binlerce kadın İstanbul Kadıköy'de gösteride bulundu.",
+    "url": "https://www.bbc.com/turkce/haberler-turkiye-57715634",
+    "tags": ["kadın hakları", "protesto", "İstanbul Sözleşmesi", "Kadıköy"]
+  },
+  {
+    "date": "2021-06-26",
+    "title": "İstanbul Onur Yürüyüşü Yasaklandı",
+    "description": "Çevik kuvvet LGBTI+ Onur Yürüyüşü'ne şiddet uyguladı. 6. kez yasaklanan yürüyüşte 47 kişi gözaltına alındı.",
+    "url": "https://www.dw.com/tr/lgbti%CC%87lar-yasaklara-ra%C4%9Fmen-taksimde/a-58051807",
+    "tags": ["LGBTI+", "protesto", "polis şiddeti", "yasak"]
+  },
+  {
+    "date": "2022-12-03",
+    "title": "Hiranur Vakfı Çocuk Evliliği Skandalı",
+    "description": "Dini vakıf lideri 6 yaşındaki kızını 29 yaşındaki tarikat üyesiyle evlendirdi. Türkiye'yi şoke eden vaka.",
+    "url": "https://tr.euronews.com/2024/09/23/turkiyeyi-sarsan-6-yasindaki-gelin-skandali-davasinda-karar-aciklandi",
+    "tags": ["çocuk istismarı", "çocuk evliliği", "tarikat", "skandal"]
+  },
+  {
+    "date": "2022-09-26",
+    "title": "Mersin Polis Evi Saldırısı",
+    "description": "PKK militanları polisevine saldırı düzenledi. 1 polis şehit oldu 1 polis ve 3 sivil yaralandı.",
+    "url": "https://tr.wikipedia.org/wiki/2022_Mersin_saldırısı",
+    "tags": ["terör", "PKK", "Mersin", "şehit"]
+  },
+  {
+    "date": "2022-10-13",
+    "title": "Dezenformasyon Yasası",
+    "description": "Meclis tartışmalı 'dezenformasyon yasası'nı kabul etti. Eleştirmenler bunu 'sansür yasası' olarak niteledi.",
+    "url": "https://www.bbc.com/turkce/articles/crgz0vnq0ewo",
+    "tags": ["sansür", "sosyal medya", "basın özgürlüğü", "dezenformasyon"]
+  },
+  {
+    "date": "2022-05-19",
+    "title": "Canan Kaftancıoğlu Hapis Cezası",
+    "description": "CHP İstanbul İl Başkanı sosyal medya paylaşımları nedeniyle 5 yıla yakın hapis cezasına çarptırıldı.",
+    "url": "https://www.bbc.com/turkce/haberler-turkiye-61426730/",
+    "tags": ["tutuklama", "sosyal medya", "CHP", "hapis cezası"]
+  },
+  {
+    "date": "2023-11-01",
+    "title": "Tolga Şardan Tutuklaması",
+    "description": "Deneyimli gazeteci yargı sistemi hakkındaki yazısı nedeniyle tutuklandı.",
+    "url": "https://www.bbc.com/turkce/articles/crg14edg6zyo",
+    "tags": ["gazeteci", "tutuklama", "yargı", "basın özgürlüğü"]
+  },
+  {
+    "date": "2023-02-03",
+    "title": "Boğaziçi Öğrencileri Hapis Cezası",
+    "description": "14 Boğaziçi öğrencisi 2021 protestoları nedeniyle 1-1.5 yıl hapis cezasına çarptırıldı.",
+    "url": "https://www.dw.com/tr/bo%C4%9Fazi%C3%A7ili-%C3%B6%C4%9Frencilere-hapis-cezas%C4%B1/a-64606062",
+    "tags": ["öğrenci", "protesto", "hapis", "Boğaziçi"]
+  },
+  {
+    "date": "2025-05-14",
+    "title": "Boğaziçi İslami Vaiz Protestosu",
+    "description": "Boğaziçi Üniversitesi'nde 6 öğrenci tartışmalı İslami vaiz Nureddin Yıldız'ı protesto ettiği için tutuklandı.",
+    "url": "https://tr.euronews.com/2025/05/14/bogazici-universitesinde-nureddin-yildiz-protestosu-97-gozalti",
+    "tags": ["öğrenci", "protesto", "din", "Boğaziçi"]
+  },
+  {
+    "date": "2025-06-28",
+    "title": "Muhalefet Belediye Başkanları Tutuklaması",
+    "description": "CHP'li Adıyaman, Adana ve Antalya belediye başkanları yolsuzluk suçlamasıyla tutuklandı.",
+    "url": "https://tr.euronews.com/2025/07/05/chpli-belediyelere-operasyon-adana-ve-adiyaman-belediye-baskanlari-gozaltina-alindi",
+    "tags": ["belediye", "tutuklama", "CHP", "yolsuzluk suçlaması"]
+  },
+  {
+    "date": "2025-07-01",
+    "title": "Leman Dergisi Karikatür Krizi",
+    "description": "Mizah dergisi LeMan'ın 4 çalışanı Hz. Muhammed karikatürü nedeniyle tutuklandı.",
+    "url": "https://www.bbc.com/turkce/articles/cew00dvz5qeo",
+    "tags": ["basın özgürlüğü", "din", "tutuklama", "karikatür"]
+  },
+  {
+    "date": "2020-02-21",
+    "title": "Ceren Damar Şenel Cinayeti",
+    "description": "Çankaya Üniversitesi hukuk fakültesi araştırma görevlisi öğrencisi tarafından öldürüldü.",
+    "url": "https://www.bbc.com/turkce/haberler-turkiye-51238218",
+    "tags": ["femisid", "üniversite", "akademisyen", "cinayet"]
+  },
+  {
+    "date": "2020-03-11",
+    "title": "COVID-19 Pandemisi",
+    "description": "Türkiye'deki ilk COVID-19 vakası tespit edildi. Sosyal kısıtlamalar ve ekonomik bozulma başladı.",
+    "url": "https://tr.wikipedia.org/wiki/Türkiye%27de_COVID-19_pandemisi",
+    "tags": ["pandemi", "COVID-19", "sağlık krizi", "ekonomik kriz"]
+  },
+  {
+    "date": "2020-08-27",
+    "title": "Avukat Ebru Timtik Ölümü",
+    "description": "İnsan hakları avukatı Ebru Timtik 238 günlük açlık grevi sonrası öldü.",
+    "url": "https://www.cumhuriyet.com.tr/haber/avukat-ebru-timtik-aclik-grevi-sonrasi-hayatini-kaybetti-1764321",
+    "tags": ["avukat", "açlık grevi", "insan hakları", "ölüm"]
+  },
+  {
+    "date": "2021-01-01",
+    "title": "Sedat Peker İfşaları",
+    "description": "Mafya lideri Sedat Peker hükümet figürlerine karşı cinayet, tecavüz, yolsuzluk ve uyuşturucu ticareti iddiaları.",
+    "url": "https://tr.euronews.com/2022/08/29/sedat-peker-ifsalari-savcilar-neden-harekete-gecmiyor-hukuki-surec-nasil-islemeli",
+    "tags": ["mafya", "ifşa", "yolsuzluk", "Sedat Peker"]
+  },
+  {
+    "date": "2023-01-01",
+    "title": "Sıla Şentürk Cinayeti",
+    "description": "16 yaşındaki kız internetten tanıştığı 21 yaşındaki erkek tarafından öldürüldü.",
+    "url": "https://www.sozcu.com.tr/2023/gundem/16-yasindaki-sila-senturk-olduruldu-8234567/",
+    "tags": ["femisid", "çocuk cinayeti", "internet", "genç cinayet"]
+  },
+  {
+    "date": "2024-01-01",
+    "title": "Yenidoğan Çetesi Skandalı",
+    "description": "Özel hastanelerde yenidoğan bebeklerin ölümüne yol açan sigorta dolandırıcılığı çetesi ortaya çıktı.",
+    "url": "https://tr.wikipedia.org/wiki/Yenidoğan_Çetesi_soruşturması",
+    "tags": ["sağlık", "dolandırıcılık", "bebek ölümleri", "çete"]
+  },
+  {
+    "date": "2024-11-15",
+    "title": "Sakarya Nefret Suçu",
+    "description": "Hamile Suriyeli kadın Emani Er-Rahmun ve 11 aylık bebeği Halef Sakarya'da acımasızca öldürüldü.",
+    "url": "https://www.aa.com.tr/tr/gunun-basliklari/sakaryada-suriyeli-anne-ve-bebegini-olduren-2-kisi-tutuklandi/856568",
+    "tags": ["nefret suçu", "Suriyeli", "cinayet", "bebek ölümü"]
+  },
+  {
+    "date": "2024-05-16",
+    "title": "Çocuk İstismar Video Skandalı",
+    "description": "Hatay'da bir çocuk yaşadığı istismarı video çekerek paylaştı, çocuk koruma sistemlerindeki başarısızlığı ortaya çıktı.",
+    "url": "https://www.sozcu.com.tr/cektigi-videoyla-yasadigi-istismari-duyurmustu-bakanlik-da-dahil-olacak-p54807",
+    "tags": ["çocuk istismarı", "sistem başarısızlığı", "video", "sosyal medya"]
+  },
+  {
+    "date": "2024-07-15",
+    "title": "İsmailağa Cemaati Cinsel İstismar Skandalı",
+    "description": "İsmailağa cemaati Kuran kursunda 10-12 yaş arası en az 5 çocuk cinsel istismara uğradı.",
+    "url": "https://www.sozcu.com.tr/cemaat-kursunda-skandal-olay-5-cocuk-istismar-edildi-kimse-anlatmayin-kapatirlar-p164997",
+    "tags": ["cemaat", "çocuk istismarı", "din", "Kuran kursu"]
+  },
+  {
+    "date": "2024-01-01",
+    "title": "Ekonomik Kriz Sosyal Etki",
+    "description": "Resmi istatistikler 14 milyon Türk vatandaşının ekonomik zorluklar nedeniyle sosyal yardıma muhtaç hale geldiğini ortaya çıktı.",
+    "url": "https://www.cumhuriyet.com.tr/ekonomi/tuik-verileri-ortaya-koydu-turkiyede-14-milyon-yurttas-sosyal-yardima-2300765",
+    "tags": ["ekonomik kriz", "sosyal yardım", "yoksulluk", "TÜİK"]
+  },
+  {
+    "date": "2024-01-01",
+    "title": "Kredi Kartı Borç Krizi",
+    "description": "Türk vatandaşlarının kredi kartı borcu 1 trilyon TL'yi aştı, yaygın mali stres ve sosyal sorunlar yarattı.",
+    "url": "https://www.cumhuriyet.com.tr/ekonomi/ekonomist-onur-canakci-2024-yili-icin-karamsar-konustu-asil-kriz-2165128",
+    "tags": ["kredi kartı", "borç krizi", "ekonomi", "mali stres"]
+  },
+  {
+    "date": "2020-09-23",
+    "title": "Keçiören Hastane Saldırısı",
+    "description": "Keçiören Eğitim Araştırma Hastanesinde yakınlarının ölümüne öfkelenen grup sağlık çalışanlarına saldırdı. Sağlık çalışanları sedyelerle barikat kurdu.",
+    "url": "https://www.aa.com.tr/tr/turkiye/kecioren-egitim-ve-arastirma-hastanesi-personeline-siddet-davasi-saniklarinin-yargilanmasina-baslandi-/2100555",
+    "tags": ["sağlık", "hastane saldırısı", "şiddet", "Ankara"]
+  },
+  {
+    "date": "2021-01-15",
+    "title": "Wikipedia Yasağının Kaldırılması",
+    "description": "Anayasa Mahkemesi 2.5 yıllık Wikipedia yasağını kaldırdı. İfade özgürlüğü açısından önemli karar.",
+    "url": "https://tr.wikipedia.org/wiki/Vikipedi%27nin_sans%C3%BCrlenmesi",
+    "tags": ["internet", "sansür", "Anayasa Mahkemesi", "Wikipedia"]
+  },
+  {
+    "date": "2004-07-22",
+    "title": "Pamukova Tren Kazası",
+    "description": "Sakarya'nın Pamukova ilçesi yakınlarında hızlı trenin raydan çıkarak devrilmesi sonucu 41 kişi yaşamını yitirdi, 89 kişi yaralandı. Kazanın, aşırı hız ve altyapı eksikliklerinden kaynaklandığı belirlendi.",
+    "url": "https://tr.wikipedia.org/wiki/Pamukova_tren_kazası",
+    "tags": ["tren kazası", "ulaştırma", "kaza", "Sakarya", "altyapı"]
+  },
+  {
+    "date": "2007-05-13",
+    "title": "Beşiktaş Gece Kulübü Yangını",
+    "description": "İstanbul Beşiktaş'ta bir gece kulübünde çıkan yangında 4 kişi hayatını kaybetti, 6 kişi yaralandı. Yangının, elektrik kontağından çıktığı tespit edildi.",
+    "url": "https://www.aa.com.tr/tr/gundem/besiktasta-29-kisinin-oldugu-gece-kulubu-yangininin-uzerinden-bir-yil-gecti/3525888",
+    "tags": ["yangın", "gece kulübü", "İstanbul", "elektrik kontağı"]
+  },
+  {
+    "date": "2008-01-27",
+    "title": "Kütahya Tren Kazası",
+    "description": "Kütahya'nın Çöğürler köyü yakınlarında, Eskişehir-Haydarpaşa seferini yapan trenin raydan çıkması sonucu 9 kişi hayatını kaybetti, 37 kişi yaralandı. Kazanın, rayların altındaki toprağın boşalmasından kaynaklandığı tespit edildi.",
+    "url": "https://tr.wikipedia.org/wiki/Kütahya_tren_kazası",
+    "tags": ["tren kazası", "ulaştırma", "Kütahya", "ray sorunu"]
+  },
+  {
+    "date": "2008-01-31",
+    "title": "Davutpaşa Patlaması",
+    "description": "İstanbul'un Zeytinburnu ilçesindeki bir iş hanında meydana gelen patlama sonucu 21 kişi hayatını kaybetti, 115 kişi yaralandı. Patlamanın, kaçak olarak faaliyet gösteren bir maytap atölyesindeki tüplerin infilak etmesinden kaynaklandığı belirlendi.",
+    "url": "https://bianet.org/haber/davutpasa-patlamasi-ve-yargi-sureci-289228",
+    "tags": ["patlama", "iş kazası", "İstanbul", "kaçak atölye", "maytap"]
+  },
+  {
+    "date": "2009-09-09",
+    "title": "Marmara Ayamama Sel Felaketi",
+    "description": "İstanbul ve Tekirdağ'ı etkileyen sel felaketinde en az 31 kişi hayatını kaybetti, 9 kişi kayboldu ve yaklaşık 70 milyon dolarlık zarar meydana geldi.",
+    "url": "https://tr.wikipedia.org/wiki/2009_Marmara_sel_dizisi",
+    "tags": ["sel", "doğal afet", "İstanbul", "Tekirdağ", "Marmara"]
+  },
+  {
+    "date": "2010-05-17",
+    "title": "Karadon Maden Patlaması",
+    "description": "Zonguldak'ın Karadon ilçesindeki maden ocağında meydana gelen grizu patlaması sonucu 30 madenci hayatını kaybetti. Patlamanın, metan gazı birikiminden kaynaklandığı belirlendi.",
+    "url": "https://tr.wikipedia.org/wiki/Karadon_maden_kazas%C4%B1",
+    "tags": ["maden", "grizu patlaması", "işçi ölümleri", "Zonguldak", "metan gazı"]
+  },
+  {
+    "date": "2011-10-23",
+    "title": "Van Depremi",
+    "description": "Van'ın Tabanlı köyü merkezli 7.2 büyüklüğündeki depremde 644 kişi hayatını kaybetti, 4 binden fazla kişi yaralandı. Deprem, geniş bir alanda yıkıma neden oldu.",
+    "url": "https://tr.wikipedia.org/wiki/Ekim_2011_Van_depremi",
+    "tags": ["deprem", "doğal afet", "Van", "büyük deprem"]
+  },
+  {
+    "date": "2014-05-13",
+    "title": "Soma Maden Faciası",
+    "description": "Manisa'nın Soma ilçesindeki kömür madeninde çıkan yangın sonucu 301 madenci hayatını kaybetti. Bu olay, Türkiye'nin en büyük maden kazası olarak tarihe geçti.",
+    "url": "https://tr.wikipedia.org/wiki/Soma_Faciası",
+    "tags": ["maden", "yangın", "işçi ölümleri", "Soma", "en büyük maden kazası"]
+  },
+  {
+    "date": "2014-10-28",
+    "title": "Ermenek Madende Su Baskını",
+    "description": "Karaman'ın Ermenek ilçesindeki kömür madeninde su baskını sonucu 18 işçi mahsur kalarak hayatını kaybetti. Olayın, eski maden galerilerinde biriken suyun ani boşalmasından kaynaklandığı tespit edildi.",
+    "url": "https://tr.wikipedia.org/wiki/Ermenek_maden_kazası",
+    "tags": ["maden", "su baskını", "işçi ölümleri", "Karaman", "Ermenek"]
+  },
+  {
+    "date": "2016-11-17",
+    "title": "Şirvan Bakır Madeni Patlaması",
+    "description": "Siirt'in Şirvan ilçesindeki bakır madeninde meydana gelen heyelan sonucu 16 işçi toprak altında kalarak hayatını kaybetti.",
+    "url": "https://tr.wikipedia.org/wiki/Şirvan_maden_kazası",
+    "tags": ["maden", "heyelan", "işçi ölümleri", "Siirt", "bakır madeni"]
+  },
+  {
+    "date": "2018-07-08",
+    "title": "Çorlu Tren Kazası",
+    "description": "Tekirdağ'ın Çorlu ilçesi yakınlarında, Edirne-İstanbul seferini yapan yolcu treninin raydan çıkarak devrilmesi sonucu 24 kişi yaşamını yitirdi, 300'den fazla kişi yaralandı. Kazanın, aşırı yağışların neden olduğu menfez ile ray arasındaki toprak boşalmasından kaynaklandığı belirtildi.",
+    "url": "https://tr.wikipedia.org/wiki/Çorlu_tren_kazası",
+    "tags": ["tren kazası", "ulaştırma", "Tekirdağ", "Çorlu", "yağış"]
+  },
+  {
+    "date": "2025-01-21",
+    "title": "Kartalkaya Otel Yangını",
+    "description": "Bolu Kartalkaya'da bulunan Grand Kartal Otel'de çıkan yangında 78 kişi yaşamını yitirdi.",
+    "url": "https://tr.wikipedia.org/wiki/Bolu_Grand_Kartal_Otel_yang%C4%B1n%C4%B1",
+    "tags": ["yangın", "otel", "Bolu", "Kartalkaya", "turizm"]
+  },
+   {
+    "date": "2025-07-13",
+    "title": "Ayşe Tokyaz Cinayeti",
+    "description": "İstanbul Eyüpsultan'da yol kenarında valizin içinde cesedi bulunan üniversite öğrencisi Ayşe Tokyaz (22) cinayetiyle ilgili 7 kişi gözaltına alındı.",
+    "url": "https://www.bbc.com/turkce/articles/c1ljy8q2ml1o",
+    "tags": ["femisid", "cinayet", "üniversite öğrencisi", "İstanbul", "Eyüpsultan"]
+  },
+  {
+    "date": "2025-06-15",
+    "title": "LGS Şaibe İddiaları",
+    "description": "LGS sınavında 719 öğrencinin tam puan alması ve sınav sorularının WhatsApp grubunda paylaşıldığı iddiaları ortaya çıktı. MEB iddiaları yalanladı ve suç duyurusunda bulundu.",
+    "url": "https://gazeteoksijen.com/egitim/lgsde-saibe-iddialari-29-kisi-hakkinda-sorusturma-acildi-246702",
+    "tags": ["LGS", "şaibe", "kopya", "WhatsApp", "eğitim skandalı"]
+  },
+  {
+    "date": "2025-05-12",
+    "title": "PKK'nın Kendini Feshetme Kararı",
+    "description": "PKK, 12 Mayıs 2025 tarihinde örgütü feshetme ve silahlı mücadeleye son verme kararı aldığını açıkladı. Abdullah Öcalan'ın çağrısıyla başlayan barış süreci kapsamında tarihi adım atıldı.",
+    "url": "https://www.bbc.com/turkce/articles/ckg71e58y39o",
+    "tags": ["PKK", "barış süreci", "Abdullah Öcalan", "silah bırakma", "terör"]
+  }
+]
