@@ -20,7 +20,7 @@ Bu platform, son 25 yılda yaşanan trajik olayları unutmamak ve gelecek nesill
 
 `data/data.json` dosyasını düzenleyerek yeni olay ekleyebilirsiniz:
 
-\`\`\`json
+```json
 {
   "date": "YYYY-MM-DD",
   "title": "Olay Başlığı",
@@ -28,7 +28,7 @@ Bu platform, son 25 yılda yaşanan trajik olayları unutmamak ve gelecek nesill
   "url": "https://güvenilir-haber-kaynağı.com",
   "tags": ["uygun", "etiketler"]
 }
-\`\`\`
+```
 
 ### Veri Ekleme Kuralları
 ⚠️  PR göndermeden önce eklemek istediğiniz olayın zaten mevcut olmadığından emin olun
