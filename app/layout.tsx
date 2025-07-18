@@ -35,6 +35,14 @@ export const metadata: Metadata = {
     description:
       "Yaşanan acıları unutmamak, gelecekte benzer trajedilerin yaşanmaması için hatırlatmaya devam ediyoruz.",
     siteName: "Unutmadık.biz",
+    images: [
+      {
+        url: "/og-image.png",
+        width: 1200,
+        height: 630,
+        alt: "Unutmadık.biz - Bizi Unutanlar İçin Hatırlatıyoruz",
+      },
+    ],
   },
   twitter: {
     card: "summary_large_image",
@@ -43,6 +51,14 @@ export const metadata: Metadata = {
       "Yaşanan acıları unutmamak, gelecekte benzer trajedilerin yaşanmaması için hatırlatmaya devam ediyoruz.",
     site: "@unutmadikbiz",
     creator: "@unutmadikbiz",
+    images: [
+      {
+        url: "/og-image.png",
+        width: 1200,
+        height: 630,
+        alt: "Unutmadık.biz - Bizi Unutanlar İçin Hatırlatıyoruz",
+      },
+    ],
   },
   verification: {
     google: "google-site-verification-code",
